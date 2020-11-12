@@ -1,0 +1,6 @@
+- name: Email
+  url: 'mailto:contact@nmbhrd.xyz'
+- name: GitHub
+  url: 'https://github.com/nmbhrd/'
+- name: LinkedIn
+  url: 'https://www.linkedin.com/in/-25374a135/'
