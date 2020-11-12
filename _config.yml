@@ -1,0 +1,9 @@
+title: Maldini
+email: contact@nmbhrd.xyz
+description: >
+    Maldini Nembhard's personal website.
+baseurl: ""
+url: "https://nmbhrd.xyz" # the base hostname & protocol for your site
+github_username: nmbhrd
+
+markdown: kramdown
