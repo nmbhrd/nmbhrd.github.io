@@ -1,0 +1,7 @@
+*.kwpublish
+
+tags
+
+_site
+.sass-cache
+.jekyll-metadata
